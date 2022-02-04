@@ -1,1 +1,1 @@
-# ModellingVaccineAllocations
+# Modelling Vaccine Allocations
